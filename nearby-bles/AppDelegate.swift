@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  nearby-bles
 //
-//  Created by Upadhyay, Prayag on 12/11/19.
+//  Created by Upd, Prayag on 12/11/19.
 //  Copyright © 2019 nearby-bles. All rights reserved.
 //
 
